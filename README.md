@@ -1,5 +1,6 @@
 # awesome-humanitarian-foss
-Awesome list of Humanitarian Free and Open Source Software.
+[work-in-progress] Curated list of Humanitarian Free and Open Source Software
+who are very welcome to external developers contributions.
 
 Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
 
@@ -7,13 +8,7 @@ Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
 
 ## HFOSS
 
-As this list is geared toward technology experts aiming to contribute to open
-source with humanitarian impact with their skill, not for financial support or
-as suggestion for software end users:
-
-- The links to HFOSS should point to public versioned code
-- The development should still active or open to contributions
-    - _Open questions: how do define "active" / "open to contributions"?_
+See [Selection Criteria](#selection-criteria).
 
 _Note: this list is a draft._
 
@@ -28,10 +23,10 @@ _Note: this list is a draft._
 ### Human Rights
 
 - [Martus](https://github.com/benetech/Martus-Project)
-- [Uwazi](https://github.com/huridocs/uwazi)
 
 ### Human Rights
 
+- [Uwazi](https://github.com/huridocs/uwazi)
 
 ## Organizations
 
@@ -45,6 +40,16 @@ _Note: this list is a draft._
 - https://timreview.ca/article/399
 
 -->
+
+## Selection Criteria
+
+As this list is geared toward technology experts aiming to contribute to open
+source with humanitarian impact with their skill, not for financial support or
+as suggestion for software end users:
+
+- The links to HFOSS should point to public versioned code
+- The development should still active or open to contributions
+    - _Open question: how do define "active" / "open to contributions"?_
 
 ## How to contribute
 
