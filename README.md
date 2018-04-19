@@ -101,3 +101,11 @@ Links about FOSS & HFOSS
 
 Make a public suggestion at [awesome-humanitarian-foss/issues](https://github.com/fititnt/awesome-humanitarian-foss/issues)
 or send and email to <rocha@ieee.org>.
+
+## License
+
+[![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
+
+To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
+has waived all copyright and related or neighboring rights to this work to
+[Public Domain](UNLICENSE).
