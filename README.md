@@ -8,17 +8,21 @@ Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
 
 ## HFOSS
 
-See [selection Criteria](#criteria).
 
-_Note: this list is a draft._
+| Category | Name | Repository | Main skills | Tags | Description |
+| --- | --- | --- | --- | --- | --- |
+| Education | [Sugar](https://www.sugarlabs.org) | [sugarlabs/sugar](https://github.com/sugarlabs/sugar) | python, js | RaspberryPi, OLPC | Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface. Sugar promotes "studio thinking" and "reflective practice". |
+| Healthcare | [Glucosio](https://www.glucosio.org/) | [Glucosio](https://github.com/Glucosio) | java, object-c, php | diabetes | Glucosio Project was started by a long time FOSS contributor who became diagnosed with diabetes and saw a gap in the free and open source ecosystem where there were no good apps for tracking glucose and metrics for people with diabetes |
 
-### Education
+<!--
+Copy from here
 
-- [Sugar](https://github.com/sugarlabs/sugar)
+| CategoryName | [Name](https://site.com) | [org/repo](https://github.com/org/repo) | lang1, lang2 | tag1, tag2, tag3 | Short description, less than 255 caracters |
+
+-->
 
 ### Healthcare
 
-- [Glucosio](https://github.com/Glucosio)
 - [D4D - Drone 4 Dengue](https://github.com/scorelab/D4D---Drone-4-Dengue) <!-- I'm not sure about this one -->
 - [Nightscout](https://github.com/nightscout/cgm-remote-monitor)
 - [OpenMRS](https://github.com/openmrs/openmrs-core)
@@ -31,6 +35,12 @@ _Note: this list is a draft._
 
 - [Martus](https://github.com/benetech/Martus-Project)
 - [Uwazi](https://github.com/huridocs/uwazi)
+
+### Tags
+
+| Tag | Name | Short Description | Link |
+| olpc | One Laptom per Child | [laptop.org](http:/laptop.org) |
+| RaspberryPi | Raspberry Pi | [raspberrypi.org](https://www.raspberrypi.org) |
 
 ## Organizations
 _The **main goal** of the following active organizations is developing or
@@ -109,3 +119,13 @@ or send and email to <rocha@ieee.org>.
 To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
 has waived all copyright and related or neighboring rights to this work to
 [Public Domain](UNLICENSE).
+
+<!-- JavaScript and CSS for change visual presentation of the content -->
+<script>
+  console.log('Test to see if github pages can run javascript with default template');
+</script>
+<style>
+  body::before {
+    content: "Test to see if github pages can run CSS with default template";
+  }
+</style>
