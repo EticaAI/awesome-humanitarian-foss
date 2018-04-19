@@ -4,7 +4,7 @@ Software) who are very welcome to external developers contributions.**
 
 This is an incubated project of Etica.AI. The public website available at
 [hfoss.etica.ai](https://hfoss.etica.ai) and the repository at
-[github.com/EticaAI/awesome-humanitarian-foss](https://github.com/EticaAI/awesome-humanitarian-foss).
+[EticaAI/awesome-humanitarian-foss](https://github.com/EticaAI/awesome-humanitarian-foss).
 
 <!--
 Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
@@ -14,20 +14,19 @@ Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
 
 ## HFOSS
 
-
 | Category | Name | Repository | Main skills | Tags | Description |
 | --- | --- | --- | --- | --- | --- |
-| Education | [Sugar](https://www.sugarlabs.org) | [sugarlabs/sugar](https://github.com/sugarlabs/sugar) | python, js | raspberrypi, olpc | Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface. Sugar promotes "studio thinking" and "reflective practice". |
-| Healthcare | [Glucosio](https://www.glucosio.org/) | [Glucosio](https://github.com/Glucosio) | java, object-c, php | diabetes | Glucosio Project was started by a long time FOSS contributor who became diagnosed with diabetes and saw a gap in the free and open source ecosystem where there were no good apps for tracking glucose and metrics for people with diabetes |
-| Healthcare | D4D - Drone 4 Dengue | [scorelab/D4D---Drone-4-Dengue](https://github.com/scorelab/D4D---Drone-4-Dengue) | js, java | <i style="color:#ff9800">UnderRevision</i> |  |
-| Healthcare | [Nightscout](http://www.nightscout.info/) | [nightscout](https://github.com/nightscout) |  |  | Nightscout (CGM in the Cloud) is an open source, DIY project that allows real time access to a CGM data via personal website, smartwatch viewers, or apps and widgets available for smartphones. Nightscout was developed by parents of children with Type 1 Diabetes and has continued to be developed, maintained, and supported by volunteers. When first implemented, Nightscout was a solution specifically for remote monitoring of Dexcom G4 CGM data |
-| Healthcare | [OpenMRS](https://openmrs.org/) | [OpenMRS](https://github.com/openmrs) |  |  |  |
-| Humanitarian Platform | [Sahana Eden](http://eden.sahanafoundation.org/) | [Sahana Eden](https://github.com/sahana/eden) | | | |
-| Human Rights | [Martus](https://www.martus.org/) | [Martus](https://github.com/benetech/Martus-Project) | | | |
-| Human Rights | [Uwazi](https://www.uwazi.io/) | [huridocs/uwazi](https://github.com/huridocs/uwazi) | | | |
+| **Education** | [Sugar](https://www.sugarlabs.org) | [sugarlabs/sugar](https://github.com/sugarlabs/sugar) | python, javascript | raspberrypi, olpc | Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface. Sugar promotes "studio thinking" and "reflective practice". |
+| **Healthcare** | [Glucosio](https://www.glucosio.org/) | [Glucosio](https://github.com/Glucosio) | java, object-c, php | diabetes | Glucosio Project was started by a long time FOSS contributor who became diagnosed with diabetes and saw a gap in the free and open source ecosystem where there were no good apps for tracking glucose and metrics for people with diabetes |
+| **Healthcare** | D4D - Drone 4 Dengue | [scorelab/D4D---Drone-4-Dengue](https://github.com/scorelab/D4D---Drone-4-Dengue) | javascript, java | <i style="color:#ff9800">under-revision</i> |  |
+| **Healthcare** | [Nightscout](http://www.nightscout.info/) | [nightscout](https://github.com/nightscout) | javascript, java,  | diabetes | Nightscout (CGM in the Cloud) is an open source, DIY project that allows real time access to a CGM data via personal website, smartwatch viewers, or apps and widgets available for smartphones. Nightscout was developed by parents of children with Type 1 Diabetes and has continued to be developed, maintained, and supported by volunteers. When first implemented, Nightscout was a solution specifically for remote monitoring of Dexcom G4 CGM data |
+| **Healthcare** | [OpenMRS](https://openmrs.org/) | [OpenMRS](https://github.com/openmrs) | java, javascript, swift, object-c |  | OpenMRS is a software platform and a reference application which enables design of a customized medical records system with no programming knowledge (although medical and systems analysis knowledge is required). |
+| **Humanitarian Platform** | [Sahana Eden](http://eden.sahanafoundation.org/) | [Sahana Eden](https://github.com/sahana/eden) | python| | Sahana Eden is an Emergency Development Environment to apidly build powerful applications for Emergency Management. From finding missing people, managing aid, managing volunteers, tracking camps effectively between Government groups, NGOs and victims |
+| **Human Rights** | [Martus](https://www.martus.org/) | [Martus](https://github.com/benetech/Martus-Project) | java |  <i style="color:#ff9800">under-revision</i>, strong-cryptography | Secure information collection and management tool that empowers these rights activists. Full range of human rights documentation processes, from data collection, to storage, backup, and analysis. All of Martus data is always encrypted. |
+| **Human Rights** | [Uwazi](https://www.uwazi.io/) | [huridocs/uwazi](https://github.com/huridocs/uwazi) | javascript, elastic-search | | Solution for organising, analysing and publishing your documents. Designed to address the unmet needs of human rights organisations. Universities, journalists, courts, and others who work with large document collections can also benefit |
 
 
-Note: projects with tag <i style="color:#ff9800">UnderRevision</i> needs more time to be recommended compared to the others.
+Note: projects with tag <i style="color:#ff9800">under-revision</i> needs more time to be recommended compared to the others.
 
 <!--
 Copy from here
@@ -37,18 +36,15 @@ Copy from here
 -->
 
 
-### Human Rights
-
-- [Martus](https://github.com/benetech/Martus-Project)
-- [Uwazi](https://github.com/huridocs/uwazi)
 
 ### Tags
 
 | Tag | Name | Short Description | Link |
 | diabetes | Diabetes | Diabetes mellitus (DM), commonly referred to as diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a prolonged period | [wikipedia about Diabetes](https://en.wikipedia.org/wiki/Diabetes_mellitus) |
-| olpc | OLPC: One Laptom per Child | [laptop.org](http:/laptop.org) |
-| raspberrypi | Raspberry Pi | [raspberrypi.org](https://www.raspberrypi.org) |
-| tag | Name | Short description | [Wikipedia about Tag](http://example.com) |
+| emergency-management | Emergency management | Emergency management is the organization and management of resources and responsibilities for dealing with all humanitarian aspects of emergencies (preparedness, response, and recovery) | [Wikipedia about Emergency management](https://en.wikipedia.org/wiki/Emergency_management) |
+| olpc | OLPC: One Laptom per Child | Non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, creating software & content for those devices| [laptop.org](http:/laptop.org) |
+| raspberrypi | Raspberry Pi | | [raspberrypi.org](https://www.raspberrypi.org) |
+| strong-cryptography | Uses strong cryptography | _"Please remember that export/import and/or use of strong cryptography software, providing cryptography hooks, or even just communicating technical details about cryptography software is illegal in some parts of the world"_ | |
 
 <!--
 Copy from here
@@ -136,15 +132,9 @@ To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
 has waived all copyright and related or neighboring rights to this work to
 [Public Domain](UNLICENSE).
 
+---
+
 <!-- JavaScript and CSS for change visual presentation of the content -->
 
-<script>
-  // console.log('Test to see if github pages can run javascript with default template');
-</script>
-<style>
-  /*
-  body::before {
-    content: "Test to see if github pages can run CSS with default template";
-  }
-  */
-</style>
+<script src="assets/js/hfoss.js"></script>
+<link rel="stylesheet" property="stylesheet" href="assets/css/hfoss.css">
