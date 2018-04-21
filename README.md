@@ -40,6 +40,7 @@ Copy from here
 ### Tags
 
 | Tag | Name | Short Description | Link |
+| --- | --- | --- | ---- |
 | diabetes | Diabetes | Diabetes mellitus (DM), commonly referred to as diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a prolonged period | [wikipedia about Diabetes](https://en.wikipedia.org/wiki/Diabetes_mellitus) |
 | emergency-management | Emergency management | Emergency management is the organization and management of resources and responsibilities for dealing with all humanitarian aspects of emergencies (preparedness, response, and recovery) | [Wikipedia about Emergency management](https://en.wikipedia.org/wiki/Emergency_management) |
 | olpc | OLPC: One Laptom per Child | Non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, creating software & content for those devices| [laptop.org](http:/laptop.org) |
@@ -66,6 +67,7 @@ NOTE: for reference, if we remove "Humaniarian" from "HFOSS", it is well known
       (fititnt, 2018-04-18 10:38 BRT)
 -->
 
+- [Digital Humanitarian Network](http://digitalhumanitarians.com/)
 - [Foss2serve](http://foss2serve.org)
 - [HURIDOCS](https://www.huridocs.org/)
 - [The Humanitarian FOSS Project](http://hfoss.org/)
@@ -121,7 +123,7 @@ Links about FOSS & HFOSS
 
 ## How to contribute
 
-Make a public suggestion at [awesome-humanitarian-foss/issues](https://github.com/fititnt/awesome-humanitarian-foss/issues)
+Make a public suggestion at [awesome-humanitarian-foss/issues](https://github.com/EticaAI/awesome-humanitarian-foss)
 or send and email to <rocha@ieee.org>.
 
 ## License
