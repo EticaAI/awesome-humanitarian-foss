@@ -16,6 +16,7 @@ Search [GitHub topic "hfoss"](https://github.com/topics/hfoss).
 
 | Category | Name | Repository | Main skills | Tags | Description |
 | --- | --- | --- | --- | --- | --- |
+| **Conflict Monitoring** | [WeWantPeace](https://www.wewantpeace.live) | [nameofkk/wewantpeace](https://github.com/nameofkk/wewantpeace) | Python, JavaScript, Docker | conflict, monitoring, OSINT, maps, peacebuilding | Real-time global conflict monitoring with AI severity scoring, interactive map, and tension index tracking across 195 countries. Open methodology. |
 | **Education** | [Sugar](https://www.sugarlabs.org) | [sugarlabs/sugar](https://github.com/sugarlabs/sugar) | python, javascript | raspberrypi, olpc | Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface. Sugar promotes "studio thinking" and "reflective practice". |
 | **Healthcare** | [Glucosio](https://www.glucosio.org/) | [Glucosio](https://github.com/Glucosio) | java, object-c, php | diabetes | Glucosio Project was started by a long time FOSS contributor who became diagnosed with diabetes and saw a gap in the free and open source ecosystem where there were no good apps for tracking glucose and metrics for people with diabetes |
 | **Healthcare** | D4D - Drone 4 Dengue | [scorelab/D4D---Drone-4-Dengue](https://github.com/scorelab/D4D---Drone-4-Dengue) | javascript, java | <i style="color:#ff9800">under-revision</i> |  |
